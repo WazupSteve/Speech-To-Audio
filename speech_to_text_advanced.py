@@ -7,7 +7,7 @@ import numpy as np
 import librosa
 
 # Replace this with the path to your JSON API key file
-API_KEY_JSON_PATH = "YOUR_API_KEY.json"
+API_KEY_JSON_PATH = r"path\YOUR_API_KEY.json"
 
 # Function to transcribe speech using Google Cloud Speech API
 def transcribe_google(audio_data):
