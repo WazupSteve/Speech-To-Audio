@@ -8,7 +8,7 @@ This repository contains a Python script for a simple speech recognition game wh
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/speech-recognition-game.git
+   git clone https://github.com/wazupsteve/speech-recognition-game.git
    ```
 
 2. **Navigate to the Directory:** Change your current directory to the cloned repository:
